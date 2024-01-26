@@ -6,3 +6,9 @@ function sayHi(){
 
     console.log('Hi my name is'+ name)
 }
+
+
+function newFeatImplementation(){
+
+    console.log('here we are implementing new feature..')
+}
