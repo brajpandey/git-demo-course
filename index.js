@@ -17,3 +17,8 @@ function newFeatImplementationForAge(){
 
     console.log('here we are implementing new feature for age...')
 }
+
+function newFeatImplementationForAdress(){
+
+    console.log('we are implementing new feature for adress...')
+}
